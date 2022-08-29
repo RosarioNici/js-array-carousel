@@ -1,0 +1,17 @@
+.bg-color-header {
+    background-color: rgb(79, 153, 238);
+}
+
+.color-w {
+    color: aliceblue;
+}
+
+.icon-large {
+    font-size: xx-large;
+}
+
+button {
+    border: none;
+    color: aliceblue;
+    background-color: rgba(255, 0, 0, 0);
+}
